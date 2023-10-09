@@ -1,0 +1,5 @@
+{
+    "fruits": ["Apple", "Banana", "Cherry", "Date", "Elderberry"],
+    "counts": [50, 30, 15, 20, 10],
+    "sales": [200, 250, 300, 100, 450]
+}
